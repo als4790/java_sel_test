@@ -12,3 +12,22 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+first/.idea/first.iml
+first/.idea/misc.xml
+first/.idea/vcs.xml
+first/.idea/modules.xml
+first/.idea/workspace.xml
+first/build.gradle.txt
+first/build.gradle.txt
+*.txt
+first/build/distributions/first.tar
+first/build/distributions/first.zip
+first/build/scripts/first.bat
+first/build/scripts/first
+*.txt
+test2/.idea/workspace.xml
+test3/.idea/gradle.xml
+test3/.idea/misc.xml
+test2/.idea/workspace.xml
+test3/.idea/vcs.xml
+test2/.idea/workspace.xml
